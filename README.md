@@ -1,4 +1,4 @@
 # helloworld
 toturial
 
-I like tacos adn burritos!
+I like tacos and burritos!
