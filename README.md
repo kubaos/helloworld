@@ -1,4 +1,4 @@
 # helloworld
-toturial
+tutorial
 
 I like tacos and burritos!
